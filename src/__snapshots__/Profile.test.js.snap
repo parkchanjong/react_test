@@ -3,11 +3,11 @@
 exports[`<Profile /> matches snapshot 1`] = `
 <Profile
   name="박찬종"
-  username="parkchanjong"
+  username="chanjong"
 >
   <div>
     <b>
-      parkchanjong
+      chanjong
     </b>
      
     <span>
